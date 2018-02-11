@@ -1,1 +1,1 @@
-.. include:: ../Canvas Universtiy.rst
+.. include:: ../Canvas University.rst
